@@ -1,0 +1,1 @@
+This is a repository for files I am using to learn to code JavaScript, React, and various JavaScript backend languages and applications. 
